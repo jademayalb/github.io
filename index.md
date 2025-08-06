@@ -15,5 +15,5 @@ Ce projet, réalisé dans le cadre de mon Master en Data Science, a pour objecti
 - Recommandations stratégiques basées sur les segments identifiés
 - Stratégie de mise à jour continue du modèle
 
-🌐 [👉 Voir la page dédiée au projet](https://jademayalb.github.io/segmentation-client-ecommerce/](https://jademayalb.github.io/segmentation-client-ecommerce/)
+🌐 [👉 Voir la page dédiée au projet](https://jademayalb.github.io/segmentation-client-ecommerce/)
 
