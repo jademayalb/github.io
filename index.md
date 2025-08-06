@@ -1,4 +1,4 @@
-# Portfolio de Jade Mayal
+# Portfolio de jademayalb
 
 Bienvenue sur mon portfolio dédié à mes projets en data science.  
 Vous trouverez ici mes réalisations autour de la modélisation, de l’analyse de données, et du machine learning.
